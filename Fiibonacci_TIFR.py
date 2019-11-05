@@ -1,5 +1,5 @@
 """
-This is a program to print the first 10 fibonacci numbers
+This is a program to print the first 20 fibonacci numbers
 
 Author:- Souparna Nath
 
@@ -12,7 +12,7 @@ second = 1
 print (first)
 print (second)
 
-for i in range(10):
+for i in range(20):
     third = first + second
     print (third)
     first = second
